@@ -4,7 +4,9 @@
   "description": "Bootstrap Reset Component",
   "version": "2.3.1",
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+    "JayceTDE/bootstrap-commoncss": "*"
+  },
   "development": {},
   "license": "APLv2",
   "styles": [
